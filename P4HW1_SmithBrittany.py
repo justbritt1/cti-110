@@ -8,6 +8,8 @@ def main():
     grade = 0
     total = 0
     grade_list = []
+
+    
     
     num = int(input("How many scores do you want to enter: "))
     
